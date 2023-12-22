@@ -44,6 +44,10 @@
     "pytz==2020.1",
     "requests==2.24.0",
     "scanpy==1.6.0",
+
+                          
+    "squidpy==1.3.1",
+
     "scikit-learn==0.23.2",
     "scipy==1.5.2",
     "scvelo==0.2.2",
