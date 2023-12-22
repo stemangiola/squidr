@@ -46,7 +46,7 @@
     "scanpy==1.6.0",
 
                           
-    "squidpy==1.3.0",
+    "squidpy==1.2.3",
 
     "scikit-learn==0.23.2",
     "scipy==1.5.2",
